@@ -1,4 +1,4 @@
-# _paragraphs.html_
+# _styling-with-classes _
 
 #### _A sample set of html files to learn classes for Epicodus, at home 01/03/18_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_A starter set of webpages written at home for Epicodus.
+_A starter set of webpages written at home for Epicodus._
 _This is a series of webpages to work with CSS concepts._
 _They are intended to practice CSS features such as classes._
 _Included so far are paragraphs.html and fido.html_
@@ -35,4 +35,4 @@ _CSS_
 
 *Free to use under the GNU General public license (GPL).*
 
-Copyright (c) 2018 **_By Mariah Shipley and Andy Grossberg, adapted from the Epicodus template._**
+Copyright (c) 2018 **_Andy Grossberg, adapted from the Epicodus templates._**
