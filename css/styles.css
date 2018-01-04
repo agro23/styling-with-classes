@@ -4,7 +4,7 @@ p.intro {
 }
 
 p.author{
-  idth: 75%;
+  width: 75%;
   font-style: italic;
   font-weight: bold;
 }
