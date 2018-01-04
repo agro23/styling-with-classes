@@ -13,7 +13,7 @@ _Included so far are paragraphs.html, fido.html, cupcakeheaven.html and its othe
 _as well as stylesheets for all of them._
 
 _NOTE: cupcakeheaven.html has images, text and links._
-_Also: Three elements (<strong>, <a> and <h2> are of class 'flashy'_
+_Also: Three elements (strong, a and h2 are of class 'flashy'_
 _and there is a class called best to highlight a featured flavor._
 
 
