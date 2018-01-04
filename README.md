@@ -9,7 +9,7 @@
 _A starter set of webpages written at home for Epicodus._
 _This is a series of webpages to work with CSS concepts._
 _They are intended to practice CSS features such as classes._
-_Included so far are *paragraphs.html*, *fido.html*, *cupcakeheaven.html* and the *boring-lecture project*_
+_Included so far are **paragraphs.html**, **fido.html**, **cupcakeheaven.html** and the **boring-lecture project**_
 _as well as stylesheets for all of them and their other respective pages._
 
 _NOTE: cupcakeheaven.html has images, text and links._
