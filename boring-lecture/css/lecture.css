@@ -1,0 +1,17 @@
+h2.intro {
+  font-weight: 700;
+  font-size: 25px;
+  font-style: bold;
+  color: #406040;
+}
+
+p.intro {
+  font-weight: 75%;
+  font-style: italic;
+  color: #406040;
+}
+
+img.intro {
+  box-shadow: 10px 10px 5px gray;
+  height: 200px;
+}
