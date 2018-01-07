@@ -1,17 +1,48 @@
-h2.intro {
+/*
+div h2.intro {
   font-weight: 700;
   font-size: 25px;
   font-style: bold;
   color: #406040;
 }
 
-p.intro {
+div p.intro {
   font-weight: 75%;
   font-style: italic;
   color: #406040;
 }
 
 img.intro {
+  box-shadow: 10px 10px 5px gray;
+  height: 200px;
+}
+*/
+
+.intro {
+  color: green;
+  font-style: italic;
+}
+
+div > h2   {
+  color: purple;
+  font-style: normal;
+}
+
+div > h2:hover {
+  color: red;
+}
+
+body > p {
+  color: #406040;
+}
+
+div > p {
+  font-weight: 75%;
+  background-color: lightgray;
+  /*color: blue;*/
+}
+
+img {
   box-shadow: 10px 10px 5px gray;
   height: 200px;
 }
