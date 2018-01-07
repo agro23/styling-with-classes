@@ -1,0 +1,25 @@
+/*BLOG STYLE SHEET*/
+
+.AboutMe {
+  color: red;
+  font-style: italic;
+  font-family: arial, sans-serif;
+}
+
+div > h2   {
+  color: purple;
+  font-style: normal;
+}
+
+div > h2:hover {
+  color: red;
+}
+
+body > p {
+  color: #406040;
+}
+
+img {
+  box-shadow: 10px 10px 5px gray;
+  height: 200px;
+}

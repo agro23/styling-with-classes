@@ -1,0 +1,84 @@
+/*RESUME STYLE SHEET*/
+
+.name {
+  font-style: bold;
+  font-size: 18px;
+  font-weight: 800;
+  color: darkblue;
+}
+
+.date {
+  color: darkblue;
+  font-style: bold;
+  font-weight: 600;
+}
+
+h1 {
+    color: #bf00ff;
+}
+
+div h2 {
+  color: purple;
+  font-style: normal;
+  margin: 0;
+}
+
+div h2:hover {
+  color: red;
+}
+
+body {
+  font-family: arial, sans-serif;
+  color: #0a0a0a;
+  background-color: #CCC;
+}
+
+img {
+  box-shadow: 10px 10px 5px gray;
+  height: 200px;
+}
+
+/*
+    Mobile screens (roughly 300 - 480 pixels wide)
+    Medium and tablet screens (roughly 700 - 1000 pixels wide)
+
+*/
+
+/*
+@media screen and (min-width: 768px) {
+  .column {
+    width: 300px;
+    float: left;
+    padding: 20px;
+  }
+}
+*/
+
+@media screen and (max-width: 768px) and (min-width: 600px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+
+@media screen and (max-width:480px) and (min-width:300px) {
+  body {
+    background-color: orange;
+    text-family: courier;
+  }
+}
+
+@media screen and (max-width:1000px) and (min-width:700px) {
+  body {
+    background-color: beige;
+    text-family: times, serif;
+  }
+}
+
+/*
+@media screen and (max-width: 480px) {
+  body {
+    background-color: teal;
+  }
+}
+*/
